@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"si3oq1blphqos","package_name":"erc20","contract_name":"erc20","module_path":"erc20::erc20","artifacts":{"sierra":"erc20_erc20.contract_class.json","casm":null}}]}

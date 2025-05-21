@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"88j6c3cd2hhf6","package_name":"thefloxtv_subscription_contract","contract_name":"HelloStarknet","module_path":"thefloxtv_subscription_contract::HelloStarknet","artifacts":{"sierra":"thefloxtv_subscription_contract_HelloStarknet.contract_class.json","casm":null}}]}
